@@ -1,0 +1,14 @@
+.form-control{
+
+    background-image:linear-gradient(to bottom right,red,rgb(177, 24, 182));
+    border-color: purple;
+
+}
+
+.offline{
+    background-color: red;
+}
+
+.online{
+    background-color: green;
+}
